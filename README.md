@@ -354,9 +354,8 @@ The markdown notes are personal study notes, summaries, interpretations, and wor
 
 **Ayushman Mishra**
 
-- GitHub: [@aymisxx](https://github.com/aymisxx)
-- Website: [aymisxx.github.io](https://aymisxx.github.io)
-- LinkedIn: [aymisxx](https://linkedin.com/in/aymisxx)
+- GitHub: [@infinitepriest](https://github.com/infinitepriest)
+- LinkedIn: [infinitepriest](https://linkedin.com/in/infinitepriest)
 
 ---
 
